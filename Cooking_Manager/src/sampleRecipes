@@ -1,0 +1,11 @@
+Nachos:20:4:00005:This is delicious:Nacho Chips, mince, cheese:Cook stuff
+Stew:40:8:00300:This is somewhat delicious:Water, stew.:Cook stuff
+Soup:25:6:10040:This is ok delicious:Water, food.:Cook stuff in a pot.
+Roast Chicken:60:5:10040:Not bad.:Chicken, stuffing.:Cook chicken in the oven.
+Toast:5:7:12345:This is ok.:Bread.:Put bread in toaster.
+Vegan Roast Lamb:0:4:02000:Don't eat.:Nothing.:Just sleep.
+Pumpkin Soup:40:8:12000:Thick pumpkin soup.:Water, Pumpkins, Pumpkin soup mix.:Throw out pumpkin and mix water and soup mix.
+Steak:10:2:00345:A steak.:Beef steak.:Fry steak.
+Porridge:10:1:12000:Breakfast food.:Water, food.:Cook stuff in a pot.
+Lamb Stew:30:1:00300: Dinner meal.:Lamb, vegetables, broth.:Fry in a skillet.
+Boiled water:30:2:00300: Lunch: Water, love: Pour water in saucepan. Bring to the boil. Drink immediately.
